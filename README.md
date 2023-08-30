@@ -1,6 +1,7 @@
-# WS8
 
-You can find the initial python file and the climate.db file here. The database follows the below schema:
+# WS8 Q1
+
+Using sqlite3, load climate.db; and show data in climate.db. The database follows the below schema:
 
 
 #### Table: ClimateData
@@ -13,3 +14,8 @@ You can find the initial python file and the climate.db file here. The database 
 | 1990 | 300 | 17.3|
 | 2000 | 320 | 19.1 |
 | 2010 | 389 | 20.2 |
+
+
+# WS8 Q2
+
+Using Pandas, load climate.csv; and show data in climate.csv.
