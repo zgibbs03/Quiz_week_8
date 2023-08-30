@@ -1,7 +1,7 @@
 
 # WS8 Q1
 
-Using sqlite3, load climate.db; and show data in climate.db. The database follows the below schema:
+Using sqlite3, load climate.db; and show the data. The database follows the below schema:
 
 
 #### Table: ClimateData
@@ -18,4 +18,4 @@ Using sqlite3, load climate.db; and show data in climate.db. The database follow
 
 # WS8 Q2
 
-Using Pandas, load climate.csv; and show data in climate.csv.
+Using Pandas, load climate.csv; and show the data.
